@@ -37,8 +37,8 @@ Authors are invited to prepare a position paper (2-4 pages including references)
 ---
 
 ### Important Dates
-Submission deadline: **20/06/2020**. 
-Notiﬁcation of acceptance: **15/07/2020**. 
-Camera-ready submission: **31/07/2020**. 
-Workshop: **04/09/2020**. 
+Submission deadline: **20/06/2020** <br/>
+Notiﬁcation of acceptance: **15/07/2020**<br/>
+Camera-ready submission: **31/07/2020**<br/> 
+Workshop: **04/09/2020**<br/> 
 
