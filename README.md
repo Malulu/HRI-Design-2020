@@ -18,14 +18,14 @@ Design contributions have been steadily growing in Human-Robot Interaction (HRI)
 This workshop, then, aims at creating a venue for discussing relevant forms of intermediate-level knowledge and understanding what might be their specific contribution in HRI.
 To this end, we strongly encourage submissions from researchers that work at the intersection of Human-Robot Interaction studies and Design Research. Topics include but are not limited to:
 
-·   	HRI and interaction design
-·   	Design and prototyping of robotic artifacts
-·   	Robot aesthetics
-·   	Design methods, tools, techniques in HRI
-·   	HRI heuristics
-·   	Human-centered robotics
-·   	Participatory practices in HRI
-·   	Speculative and Critical Design in HRI
+- HRI and interaction design
+- Design and prototyping of robotic artifacts
+- Robot aesthetics
+- Design methods, tools, techniques in HRI
+- HRI heuristics
+- Human-centered robotics
+- Participatory practices in HRI
+- Speculative and Critical Design in HRI
 
 
 #### Submissions
