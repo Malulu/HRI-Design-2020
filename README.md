@@ -2,10 +2,10 @@
 ##### Naples, Italy, September 4, 2020.
 
 
-This workshop, that brings together HRI and Design researchers, is dedicated to the investigation of designerly forms of knowledge in HRI. In particular, learning from the existing debate in the Design and HCI fields, we will discuss the concept of intermediate-level knowledge through the specific perspective of HRI studies. 
+This workshop, that will bring together HRI and Design researchers, is dedicated to the investigation of designerly forms of knowledge in HRI. In particular, learning from the existing debate in the Design and HCI fields, we will discuss the concept of intermediate-level knowledge through the specific perspective of HRI studies. 
 
-The ultimate goal is to the state of art of HRI knowledge, by bridging it with the design discipline. 
-By exploring perspectives, approaches, methods, tools, techniques, and contributions that fall within the concept of intermediate-level knowledge we'll start a conversation on what HRI design epistemology is (i.e., the study of knowledge creation) and could be, and how to evaluate and legitimate knowledge produced through HRI design practices.
+The ultimate goal is to extend the state of art of HRI knowledge, by bridging it with the design discipline. 
+By exploring perspectives, approaches, methods, tools, techniques, and contributions that fall within the concept of intermediate-level knowledge, we'll start a conversation on what HRI design epistemology is (i.e., the study of knowledge creation) and could be, and how to evaluate and legitimate knowledge produced through HRI design practices.
 
 #### Invited Speakers
 
