@@ -1,5 +1,5 @@
 #### Half-day workshop on Designerly HRI Knowledge. Held in conjunction with the 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2020)
-##### Naples, Italy, August 31-September 4, 2020.
+##### Naples, Italy, September 4, 2020.
 
 
 This workshop, that brings together HRI and Design researchers, is dedicated to the investigation of designerly forms of knowledge in HRI. In particular, learning from the existing debate in the Design and HCI fields, we will discuss the concept of intermediate-level knowledge through the specific perspective of HRI studies. 
@@ -10,11 +10,13 @@ By exploring perspectives, approaches, methods, tools, techniques, and contribut
 #### Invited Speakers
 
 **Guy**
+
 **Ron**
 
 #### Call for participants
 
 #### Submissions
+Authors are invited to prepare a position paper (2-4 pages including references) using a IEEE [template](https://www.ieee.org/conferences/publishing/templates.html), and submit via email at: gianni@pino.com
 
 #### Important Dates
 
