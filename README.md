@@ -13,10 +13,23 @@ By exploring perspectives, approaches, methods, tools, techniques, and contribut
 
 **Ron**
 
-#### Call for participants
+#### Call for designerly contributions
+Design contributions have been steadily growing in Human-Robot Interaction (HRI) studies. The majority of these, however, usually tend to produce insights and knowledge adapting to modalities typical of the HRI research community, such as introducing a (novel) robot platform and empirically evaluating it get a generalizable understanding of the interaction between humans and robots. Despite being relevant and necessary, this approach to knwoledge production often misses the opportunity to construct forms of knowledged belonging to an intermediated level, in between the concretness of robotic instances and the abstraction of theories. These include design methodologies, guidelines, heuristics, patterns, concepts, experiential qualities, and annotated portfolios. Although partial discussions about these forms of knowledge can already be found in the HRI, comprehensive investigations are still lacking.
+This workshop, then, aims at creating a venue for discussing relevant forms of intermediate-level knowledge and understanding what might be their specific contribution in HRI.
+To this end, we strongly encourage submissions from researchers that work at the intersection of Human-Robot Interaction studies and Design Research. Topics include but are not limited to:
+
+·   	HRI and interaction design
+·   	Design and prototyping of robotic artifacts
+·   	Robot aesthetics
+·   	Design methods, tools, techniques in HRI
+·   	HRI heuristics
+·   	Human-centered robotics
+·   	Participatory practices in HRI
+·   	Speculative and Critical Design in HRI
+
 
 #### Submissions
-Authors are invited to prepare a position paper (2-4 pages including references) using a IEEE [template](https://www.ieee.org/conferences/publishing/templates.html), and submit via email at: gianni@pino.com
+Authors are invited to prepare a position paper (2-4 pages including references) using a IEEE [template](https://www.ieee.org/conferences/publishing/templates.html), and submit via email at: _gianni@pino.com_
 
 #### Important Dates
 
@@ -29,14 +42,4 @@ Authors are invited to prepare a position paper (2-4 pages including references)
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Malulu/HRI-Design-2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
