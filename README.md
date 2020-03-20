@@ -1,10 +1,11 @@
-### Half-day workshop on Designerly HRI Knowledge. Held in conjunction with the 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2020)
-#### Naples, Italy, August 31-September 4, 2020.
+#### Half-day workshop on Designerly HRI Knowledge. Held in conjunction with the 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2020)
+##### Naples, Italy, August 31-September 4, 2020.
 
 
-You can use the [editor on GitHub](https://github.com/Malulu/HRI-Design-2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This workshop, that brings together HRI and Design researchers, is dedicated to the investigation of designerly forms of knowledge in HRI. In particular, learning from the existing debate in the Design and HCI fields, we will discuss the concept of intermediate-level knowledge through the specific perspective of HRI studies. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The ultimate goal is to the state of art of HRI knowledge, by bridging it with the design discipline. 
+By exploring perspectives, approaches, methods, tools, techniques, and contributions that fall within the concept of intermediate-level knowledge we'll start a conversation on what HRI design epistemology is (i.e., the study of knowledge creation) and could be, and how to evaluate and legitimate knowledge produced through HRI design practices.
 
 ### Markdown
 
