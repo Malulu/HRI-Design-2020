@@ -16,8 +16,9 @@ By exploring perspectives, approaches, methods, tools, techniques, and contribut
 #### Call for designerly contributions
 Design contributions have been steadily growing in Human-Robot Interaction (HRI) studies. The majority of these, however, usually tend to produce insights and knowledge adapting to modalities typical of the HRI research community, such as introducing a (novel) robot platform and empirically evaluating it get a generalizable understanding of the interaction between humans and robots. Despite being relevant and necessary, this approach to knwoledge production often misses the opportunity to construct forms of knowledged belonging to an intermediated level, in between the concretness of robotic instances and the abstraction of theories. These include design methodologies, guidelines, heuristics, patterns, concepts, experiential qualities, and annotated portfolios. Although partial discussions about these forms of knowledge can already be found in the HRI, comprehensive investigations are still lacking.
 This workshop, then, aims at creating a venue for discussing relevant forms of intermediate-level knowledge and understanding what might be their specific contribution in HRI.
-To this end, we strongly encourage submissions from researchers that work at the intersection of Human-Robot Interaction studies and Design Research. Topics include but are not limited to:
+To this end, we strongly encourage submissions from researchers that work at the intersection of Human-Robot Interaction studies and Design Research. 
 
+_Topics include but are not limited to:_
 - HRI and interaction design
 - Design and prototyping of robotic artifacts
 - Robot aesthetics
@@ -32,14 +33,8 @@ To this end, we strongly encourage submissions from researchers that work at the
 Authors are invited to prepare a position paper (2-4 pages including references) using a IEEE [template](https://www.ieee.org/conferences/publishing/templates.html), and submit via email at: _gianni@pino.com_
 
 #### Important Dates
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Submission deadline: **20/06/2020**
+Notiﬁcation of acceptance: **15/07/2020**
+Camera-ready submission: **31/07/2020**
+Workshop: **04/09/2020**
 
