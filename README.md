@@ -7,16 +7,16 @@ This workshop, that brings together HRI and Design researchers, is dedicated to 
 The ultimate goal is to the state of art of HRI knowledge, by bridging it with the design discipline. 
 By exploring perspectives, approaches, methods, tools, techniques, and contributions that fall within the concept of intermediate-level knowledge we'll start a conversation on what HRI design epistemology is (i.e., the study of knowledge creation) and could be, and how to evaluate and legitimate knowledge produced through HRI design practices.
 
-### Markdown
+#### Invited Speakers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Guy**
+**Ron**
 
-```markdown
-Syntax highlighted code block
+#### Call for participants
 
-# Header 1
-## Header 2
-### Header 3
+#### Submissions
+
+#### Important Dates
 
 - Bulleted
 - List
