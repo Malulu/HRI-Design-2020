@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+### Half-day workshop on Designerly HRI Knowledge. Held in conjunction with the 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2020)
+#### Naples, Italy, August 31-September 4, 2020.
+
 
 You can use the [editor on GitHub](https://github.com/Malulu/HRI-Design-2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
