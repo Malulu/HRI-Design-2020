@@ -34,6 +34,8 @@ _Topics include but are not limited to:_
 #### Submissions
 Authors are invited to prepare a position paper (2-4 pages including references) using a IEEE [template](https://www.ieee.org/conferences/publishing/templates.html), and submit via email at: _gianni@pino.com_
 
+Participants’ contributions will be published on our website and on Arxiv. A joint publication may emerge as report of the workshop outcomes.
+
 ---
 
 ### Important Dates
