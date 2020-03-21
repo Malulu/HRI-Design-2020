@@ -3,4 +3,4 @@ theme: jekyll-theme-minimal
 title: Design + HRI
 description: "1st International workshop on Designerly HRI knowledge: Bridging HRI and Design Research"
 
-logo: https://github.com/hri-design-2020/assets/img/logo-aida.png
+logo: ./assets/img/logo-aida.png
