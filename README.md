@@ -4,7 +4,7 @@
 
 This workshop, that will bring together HRI and Design researchers, is dedicated to the investigation of designerly forms of knowledge in HRI. In particular, learning from the existing debate in the Design and HCI fields, we will discuss the concept of intermediate-level knowledge through the specific perspective of HRI studies. 
 
-![alt text](./assets/formsofknow.png "formsofknow")
+![alt text](./assets/img/formsofknow.png "formsofknow")
 ###### Forms of intermediate level knowledge in HRI.
 
 The ultimate goal is to extend the state of art of HRI knowledge, by bridging it with the design discipline. 
