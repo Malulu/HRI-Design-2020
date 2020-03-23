@@ -1,4 +1,4 @@
-### Half-day workshop on Designerly HRI Knowledge. Held in conjunction with the 29th IEEE International Conference on Robot and Human Interactive Communication ([RO-MAN 2020] (http://ro-man2020.unina.it/index.php))
+### Half-day workshop on Designerly HRI Knowledge. Held in conjunction with the 29th IEEE International Conference on Robot and Human Interactive Communication ([RO-MAN 2020](http://ro-man2020.unina.it/index.php))
 ##### Naples, Italy, September 4, 2020.
 
 
