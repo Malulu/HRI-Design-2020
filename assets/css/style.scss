@@ -12,3 +12,9 @@ header h1 a{
     background-size: contain;
     background-repeat: no-repeat;
 }
+
+a:-webkit-any-link {
+    color: #BA73E0;
+    cursor: pointer;
+    text-decoration: none;
+}
