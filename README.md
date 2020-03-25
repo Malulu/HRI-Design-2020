@@ -12,7 +12,8 @@ By exploring perspectives, approaches, methods, tools, techniques, and contribut
 
 #### Invited Speakers
 
-**Guy**
+**Guy Hoffman**
+Head of Human-Robot Collaboration & Companionship ([HRC2](https://hrc2.io/)) Lab at Cornell University (USA).
 
 **Ron**
 
