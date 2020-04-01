@@ -53,7 +53,7 @@ Workshop: **04/09/2020**<br/>
 #### Organizers
 
 **Maria Luce Lupetti**
-Postdoctoral design researcher at TU Delft, part of the [AiTech](https://www.tudelft.nl/aitech/projects/embodied-manifestos-of-human-ai-partnerships/) research initiative.
+Postdoctoral design researcher at the Faculty of Industrial Design Engineering, TU Delft, and part of the [AiTech](https://www.tudelft.nl/aitech/projects/embodied-manifestos-of-human-ai-partnerships/) research initiative.
 
 **Cristina Zaga**
 Assistant professor at the [Human-Centred Design Group](https://www.utwente.nl/en/et/dpm/hcd/#staff) (Design and Production Management department) and at [The DesignLab](https://www.utwente.nl/en/designlab/) at the University of Twente. 
