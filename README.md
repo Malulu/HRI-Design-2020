@@ -23,7 +23,7 @@ Full professor in Industrial Design at Eindhoven University of Technology (NL) a
 #### Program
 _coming soon_
 
-We are constantly monitoring information regarding the COVID-19 situation. In line with the main conference, we will take a final decisions whether to organize the work physically in Naple or virtually, by early June at the latest. We are also considering a hybrid workshop format.
+_We are constantly monitoring information regarding the COVID-19 situation. In line with the main conference, we will take a final decisions whether to organize the work physically in Naple or virtually, by early June at the latest. We are also considering a hybrid workshop format._
 
 ---
 
