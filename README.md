@@ -13,14 +13,17 @@ By exploring perspectives, approaches, methods, tools, techniques, and contribut
 #### Confirmed Speakers
 
 **Guy Hoffman**
-Head of Human-Robot Collaboration & Companionship ([HRC2](https://hrc2.io/)) Lab at Cornell University (USA).
+Assistant Professor in Human-Robot Interaction and the Mills Family Faculty Fellow in the Sibley School of Mechanical and Aerospace Engineering at Cornell University (USA) where he is also head of the Human-Robot Collaboration & Companionship ([HRC2](https://hrc2.io/)) Lab.
 
 **Ron Wakkary**
+Full professor in Industrial Design at Eindhoven University of Technology (NL) and at the School of Interactive Arts and Technology, Simon Fraser University (CA) where he is director of the Interaction Design Research Centre and founder of the ([Everyday Design Studio](http://eds.siat.sfu.ca/)). 
 
 ---
 
 #### Program
 _coming soon_
+
+We are constantly monitoring information regarding the COVID-19 situation. In line with the main conference, we will take a final decisions whether to organize the work physically in Naple or virtually, by early June at the latest. We are also considering a hybrid workshop format.
 
 ---
 
