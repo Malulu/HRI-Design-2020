@@ -3,10 +3,6 @@
 
 
 This workshop, which will bring HRI and HCI together, is dedicated to the investigation of designerly forms of knowledge in HRI. In particular, we will discuss the concept of intermediate-level knowledge through the specific perspective of HRI studies. 
-
-![alt text](./assets/img/formsofknow.png "formsofknow")
-###### Exemple forms of intermediate level knowledge in HRI, based on the "Intermediate-level knowledge" schema by Hook and Lowgren, 2012.
-
 The ultimate goal is to extend the state-of-art of HRI knowledge, by bridging it with the design discipline. 
 By exploring perspectives, approaches, methods, tools, techniques, and contributions that fall within the concept of [intermediate-level knowledge](http://mobilelifecentre.org/sites/default/files/a23-hook.pdf), we will start a conversation on what HRI design epistemology is (i.e., the study of knowledge creation) and could be, and how to evaluate and legitimate knowledge produced through HRI design practices.
 
