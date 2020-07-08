@@ -23,7 +23,7 @@ By exploring perspectives, approaches, methods, tools, techniques, and contribut
 #### Program
 _coming soon_
 
-_We are constantly monitoring information regarding the COVID-19 situation. In line with the main conference, we will take a final decisions whether to organize the work physically in Naple or virtually, by early June at the latest. We are also considering a hybrid workshop format._
+_Due to the COVID-19 situation, the workshops will be held online as the main conference._
 
 ---
 
