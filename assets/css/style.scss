@@ -25,8 +25,14 @@ header p {
     color: #ea1b5f;
 }
 
-a:-webkit-any-link {
+a {
     color: #ea1b5f;
     cursor: pointer;
     text-decoration: none;
 }
+
+
+  .markdown-body table td {
+    font-size: 11px !important;
+  }
+
