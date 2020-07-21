@@ -14,7 +14,6 @@ This workshop, which will bring HRI and HCI together, is dedicated to the invest
 The ultimate goal is to extend the state-of-art of HRI knowledge, by bridging it with the design discipline. 
 By exploring perspectives, approaches, methods, tools, techniques, and contributions that fall within the concept of [intermediate-level knowledge](http://mobilelifecentre.org/sites/default/files/a23-hook.pdf), we will start a conversation on what HRI design epistemology is (i.e., the study of knowledge creation) and could be, and how to evaluate and legitimate knowledge produced through HRI design practices.
 
----
 
 ### Call for designerly HRI contributions
 Design contributions have been steadily growing in Human-Robot Interaction (HRI) studies. The majority of these, however, usually tend to produce insights and knowledge adapting to modalities typical of the HRI research community, such as introducing a (novel) robot platform and empirically evaluating it in order to obtain a generalizable understanding of the interaction between humans and robots. Despite being relevant and necessary, this approach to knowledge production often misses the opportunity to construct forms of knowledged belonging to another level, in between the concretness of robotic instances and the abstraction of theories. These include design methodologies, guidelines, heuristics, patterns, concepts, experiential qualities, and annotated portfolios. Although partial discussions about these forms of knowledge can already be found in the HRI, comprehensive investigations are still lacking.
@@ -45,16 +44,4 @@ Notiﬁcation of acceptance: **31/07/2020**<br/>
 Camera-ready submission: **10/08/2020**<br/> 
 Workshop: **04/09/2020**<br/> 
 
----
-
-#### Organizers
-
-**Maria Luce Lupetti**
-Postdoctoral design researcher at the Faculty of Industrial Design Engineering, TU Delft, and part of the [AiTech](https://www.tudelft.nl/aitech/projects/embodied-manifestos-of-human-ai-partnerships/) research initiative.
-
-**Cristina Zaga**
-Assistant professor at the [Human-Centred Design Group](https://www.utwente.nl/en/et/dpm/hcd/#staff) (Design and Production Management department) and at [The DesignLab](https://www.utwente.nl/en/designlab/) at the University of Twente. 
-
-**Nazli Cila** 
-Design researcher and teacher at the Faculty of Media and Creative Industries, the [Digital Life Center](http://www.digitallifecentre.nl/team/dr-nazli-cila) research group of the Amsterdam University of Applied Sciences. 
 
