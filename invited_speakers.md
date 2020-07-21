@@ -4,7 +4,7 @@ title: Invited speakers
 nav_order: 2
 ---
 
-#### Invited speakers
+### Invited speakers
 
 
 **Guy Hoffman** <br>
