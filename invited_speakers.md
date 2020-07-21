@@ -6,6 +6,9 @@ nav_order: 2
 
 ### Invited speakers
 
+### project 1
+
+![alt text](https://www.scitecheuropa.eu/wp-content/uploads/2019/09/Colour-bird-e1568033112774.jpg "bird")
 
 **Guy Hoffman** <br>
 Assistant Professor and the Mills Family Faculty Fellow in the Sibley School of Mechanical and Aerospace Engineering at Cornell University. Prior to that he was Assistant Professor at IDC Herzliya and co-director of the IDC Media Innovation Lab. Hoffman holds a Ph.D from MIT in the field of human-robot interaction. He heads the Human-Robot Collaboration and Companionship [(HRC2)](https://hrc2.io/) group, studying the algorithms, interaction schema, and designs enabling close interactions between people and personal robots in the workplace and at home. Among others, Hoffman developed the world’s first human-robot joint theater performance, and the first real-time improvising human-robot Jazz duet. His research papers won several top academic awards, including Best Paper awards at HRI and robotics conferences in 2004, 2006, 2008, 2010, 2013, and 2015. In both 2010 and 2012, he was selected as one of Israel’s most promising researchers under forty. His TEDx talk is one of the most viewed online talks on robotics, watched more than 2.9 million times. Hoffman received his M.Sc. in Computer Science from Tel Aviv University as part of the Adi Lautman interdisciplinary excellence scholarship program.
