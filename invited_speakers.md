@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Invited speakers
-nav order: 1
+nav order: 2
 ---
 
 #### Invited speakers
