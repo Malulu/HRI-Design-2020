@@ -1,6 +1,8 @@
-theme: jekyll-theme-minimal
 
 title: Design + HRI
 description: "1st International workshop on Designerly HRI knowledge: Bridging HRI and Design Research"
 
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: false
 
