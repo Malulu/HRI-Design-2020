@@ -1,6 +1,6 @@
 ---
 layout: default
-title: invited speakers
+title: Invited speakers
 nav order: 1
 ---
 
