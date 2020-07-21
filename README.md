@@ -1,8 +1,8 @@
----
+
 layout: default
 title: Home
 nav_order: 1
----
+
 
 ### First international workshop on Designerly HRI Knowledge. 
 
