@@ -13,12 +13,16 @@ nav_order: 2
 
 Assistant Professor and the Mills Family Faculty Fellow in the Sibley School of Mechanical and Aerospace Engineering at Cornell University. Prior to that he was Assistant Professor at IDC Herzliya and co-director of the IDC Media Innovation Lab. Hoffman holds a Ph.D from MIT in the field of human-robot interaction. He heads the Human-Robot Collaboration and Companionship [(HRC2)](https://hrc2.io/) group, studying the algorithms, interaction schema, and designs enabling close interactions between people and personal robots in the workplace and at home. Among others, Hoffman developed the world’s first human-robot joint theater performance, and the first real-time improvising human-robot Jazz duet. His TEDx talk is one of the most viewed online talks on robotics, watched more than 2.9 million times. Hoffman received his M.Sc. in Computer Science from Tel Aviv University as part of the Adi Lautman interdisciplinary excellence scholarship program.
 
+---
+
 #### Ron Wakkary
 
 ![alt text](https://malulu.github.io/HRI-Design-2020/assets/img/ronw-01.png "Ron")
 {: .float-left .profile-img}
 
-Full professor in the School of Interactive Arts and Technology, Simon Fraser University in Canada where he is the founder of the [Everyday Design Studio](eds.siat.sfu.ca). In addition, he is full professor in Industrial Design, Eindhoven University of Technology in the Future Everyday cluster. Wakkary is interested in design-oriented human-computer interaction (HCI) and the philosophies of technologies through design. His research investigates the changing nature of interaction design and HCI in response to new understandings of human-technology relations. He aims to reflectively create new interaction design exemplars, concepts, and emergent practices of design that help to shape both design and its relations to technologies. Ron is currently a member of the TEI and DIS steering committees. He is also a member of various editorial boards including International Journal of Design (IJD). He was co-Editor-in-Chief of ACM interactions from 2010 to 2016.
+Full professor in the School of Interactive Arts and Technology, Simon Fraser University in Canada where he is the founder of the [Everyday Design Studio](eds.siat.sfu.ca). He is also full professor in Industrial Design, Eindhoven University of Technology in the Future Everyday cluster. Wakkary is interested in design-oriented human-computer interaction (HCI) and the philosophies of technologies through design. His research investigates the changing nature of interaction design and HCI in response to new understandings of human-technology relations. He aims to reflectively create new interaction design exemplars, concepts, and emergent practices of design that help to shape both design and its relations to technologies. Ron is currently a member of the TEI and DIS steering committees. He is also a member of various editorial boards including International Journal of Design (IJD). He was co-Editor-in-Chief of ACM interactions from 2010 to 2016.
+
+---
 
 #### Deborah Forster
 
