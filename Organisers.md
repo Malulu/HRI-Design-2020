@@ -4,10 +4,10 @@ title: Organisers
 nav_order: 5
 ---
 
-#### Organisers
+### Organisers
 
 
-### Maria Luce Lupetti
+#### Maria Luce Lupetti
 
 ![alt text](https://malulu.github.io/HRI-Design-2020/assets/img/luce.png "Luce")
 {: .float-left .profile2-img}
@@ -20,7 +20,7 @@ Postdoctoral design researcher at the Faculty of Industrial Design Engineering, 
 <br />
 
 
-### Cristina Zaga
+#### Cristina Zaga
 
 ![alt text](https://malulu.github.io/HRI-Design-2020/assets/img/cri.png "Cristina")
 {: .float-left .profile2-img}
@@ -32,7 +32,7 @@ Assistant professor at the [Human-Centred Design Group](https://www.utwente.nl/e
 <br />
 <br />
 
-### Nazli Cila
+#### Nazli Cila
 
 ![alt text](https://malulu.github.io/HRI-Design-2020/assets/img/nazli.png "Nazli")
 {: .float-left .profile2-img}
