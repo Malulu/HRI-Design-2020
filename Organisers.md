@@ -18,7 +18,6 @@ Postdoctoral design researcher at the Faculty of Industrial Design Engineering, 
 <br />
 <br />
 <br />
-<br />
 
 
 
@@ -32,8 +31,6 @@ Assistant professor at the [Human-Centred Design Group](https://www.utwente.nl/e
 <br />
 <br />
 <br />
-<br />
-
 
 
 ![alt text](https://malulu.github.io/HRI-Design-2020/assets/img/nazli.png "Nazli")
