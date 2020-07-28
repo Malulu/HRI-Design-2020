@@ -15,6 +15,11 @@ nav_order: 5
 Postdoctoral design researcher at the Faculty of Industrial Design Engineering, TU Delft, and part of the [AiTech](https://www.tudelft.nl/aitech/projects/embodied-manifestos-of-human-ai-partnerships/) research initiative.
 
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ### Cristina Zaga
 
