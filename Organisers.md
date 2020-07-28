@@ -9,7 +9,7 @@ nav_order: 5
 
 ### Maria Luce Lupetti
 
-![alt text](https://malulu.github.io/HRI-Design-2020/assets/img/luce.png "Luce" | width=100)
+![alt text](https://malulu.github.io/HRI-Design-2020/assets/img/luce.png | width=100)
 {: .float-left .profile-img}
 
 Postdoctoral design researcher at the Faculty of Industrial Design Engineering, TU Delft, and part of the [AiTech](https://www.tudelft.nl/aitech/projects/embodied-manifestos-of-human-ai-partnerships/) research initiative.
