@@ -18,8 +18,7 @@ Postdoctoral design researcher at the Faculty of Industrial Design Engineering, 
 <br />
 <br />
 <br />
-<br />
-<br />
+
 
 ### Cristina Zaga
 
@@ -28,6 +27,9 @@ Postdoctoral design researcher at the Faculty of Industrial Design Engineering, 
 
 Assistant professor at the [Human-Centred Design Group](https://www.utwente.nl/en/et/dpm/hcd/#staff) (Design and Production Management department) and at [The DesignLab](https://www.utwente.nl/en/designlab/) at the University of Twente. 
 
+<br />
+<br />
+<br />
 <br />
 
 ### Nazli Cila
