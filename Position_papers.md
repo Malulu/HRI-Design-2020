@@ -5,56 +5,43 @@ nav_order: 4
 ---
 
 #### Prosition papers
-
-Toward Designing User-centered Idle Behaviors for Social Robots in the Home
-#### Arias K.
 <br />
 
-Designerly Scaffoldings for Co-designing Social Robots and Human-Robot Interaction
-#### Aslam S., Dertien E. and van Dijk J.
+**Toward Designing User-centered Idle Behaviors for Social Robots in the Home.** Arias K.
 <br />
 
-Robot Body Movements and the Intentional Stance
-#### Bossema M.
+**Designerly Scaffoldings for Co-designing Social Robots and Human-Robot Interaction.** Aslam S., Dertien E. and van Dijk J.
 <br />
 
-Design Challanges to achieve the Sense of Embodiment while Developing a Teleoperation System
-#### Falcone S.
+**Robot Body Movements and the Intentional Stance.** Bossema M.
 <br />
 
-New Social Robots Design Methodology to Promote Empathy in Human-Robot Interaction
-#### Fernandes L. and Bernardino A.
+**Design Challanges to achieve the Sense of Embodiment while Developing a Teleoperation System.** Falcone S.
 <br />
 
-Beyond the Robotic Artefact: Capturing Designerly HRI Knowledge through Annotated Portfolios
-#### Hoggenmuller M. and Lee R.
+**New Social Robots Design Methodology to Promote Empathy in Human-Robot Interaction.** Fernandes L. and Bernardino A.
 <br />
 
-
-Designing for Body Work in HRI
-#### Kamino W.
+**Beyond the Robotic Artefact: Capturing Designerly HRI Knowledge through Annotated Portfolios.** Hoggenmuller M. and Lee R.
 <br />
 
-Designing for Compassion: designing innovative technology for e-Mental Healthcare based on the value of compassion
-#### Lusi B.
+**Designing for Body Work in HRI.** Kamino W.
 <br />
 
-Design Research in HRI: Roboticists, Design Features, and Users as Co-Designers
-#### Ostrowski A., Park H. W. and Breazeal C.
+**Designing for Compassion: designing innovative technology for e-Mental Healthcare based on the value of compassion.** Lusi B.
 <br />
 
-Strong Concepts and Heuristics in the Multidisciplinary Design of Robots: A Case Study of a Social Robot Prototype for Dementia Therapy
-#### Sandoval E. B., Cruz-Sandoval D. and Favela J
+**Design Research in HRI: Roboticists, Design Features, and Users as Co-Designers.** Ostrowski A., Park H. W. and Breazeal C.
 <br />
 
-Predictive relations as part of designerly HRI
-#### Smit I.
+**Strong Concepts and Heuristics in the Multidisciplinary Design of Robots: A Case Study of a Social Robot Prototype for Dementia Therapy.** Sandoval E. B., Cruz-Sandoval D. and Favela J
 <br />
 
-Context-Confrontation: Elicitation and Exploration of Conflicts for Delivery Robots on Sidewalks
-#### Vroon J., Rusak Z. and Kortuem G. 
+**Predictive relations as part of designerly HRI.** Smit I.
 <br />
 
-Bridging the Ambient Environment and HRI: Using Site-Specific Robots to Create Context-Conscious Interaction.
-#### Zhang M. 
+**Context-Confrontation: Elicitation and Exploration of Conflicts for Delivery Robots on Sidewalks.** Vroon J., Rusak Z. and Kortuem G. 
+<br />
+
+**Bridging the Ambient Environment and HRI: Using Site-Specific Robots to Create Context-Conscious Interaction.** Zhang M. 
 <br />
