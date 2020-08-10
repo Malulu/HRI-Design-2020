@@ -42,6 +42,6 @@ Participants’ contributions will be published on our website and on Arxiv. A j
 Submission deadline: **17/07/2020** <br/>
 Notiﬁcation of acceptance: **31/07/2020**<br/>
 Camera-ready submission: **10/08/2020**<br/> 
-Workshop: **04/09/2020**<br/> 
+Workshop: **03/09/2020**<br/> 
 
 
