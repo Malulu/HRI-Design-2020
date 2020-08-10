@@ -7,7 +7,7 @@ nav_order: 4
 #### Prosition papers
 <br />
 
-**Toward Designing User-centered Idle Behaviors for Social Robots in the Home.** Arias K. [https://malulu.github.io/HRI-Design-2020/assets/pdf/Arias et al.pdf](pdf)
+**Toward Designing User-centered Idle Behaviors for Social Robots in the Home.** Arias K. [pdf](https://malulu.github.io/HRI-Design-2020/assets/pdf/Arias et al.pdf)
 <br />
 
 **Designerly Scaffoldings for Co-designing Social Robots and Human-Robot Interaction.** Aslam S., Dertien E. and van Dijk J.
@@ -16,7 +16,7 @@ nav_order: 4
 **Robot Body Movements and the Intentional Stance.** Bossema M.
 <br />
 
-**Design Challanges to achieve the Sense of Embodiment while Developing a Teleoperation System.** Falcone S. [https://malulu.github.io/HRI-Design-2020/assets/pdf/Falcone.pdf](pdf)
+**Design Challanges to achieve the Sense of Embodiment while Developing a Teleoperation System.** Falcone S. [pdf](https://malulu.github.io/HRI-Design-2020/assets/pdf/Falcone.pdf)
 <br />
 
 **New Social Robots Design Methodology to Promote Empathy in Human-Robot Interaction.** Fernandes L. and Bernardino A.
@@ -31,13 +31,13 @@ nav_order: 4
 **Designing for Compassion: designing innovative technology for e-Mental Healthcare based on the value of compassion.** Lusi B.
 <br />
 
-**Design Research in HRI: Roboticists, Design Features, and Users as Co-Designers.** Ostrowski A., Park H. W. and Breazeal C. [https://malulu.github.io/HRI-Design-2020/assets/pdf/Ostrowski et al.pdf](pdf)
+**Design Research in HRI: Roboticists, Design Features, and Users as Co-Designers.** Ostrowski A., Park H. W. and Breazeal C. [pdf](https://malulu.github.io/HRI-Design-2020/assets/pdf/Ostrowski et al.pdf)
 <br />
 
 **Strong Concepts and Heuristics in the Multidisciplinary Design of Robots: A Case Study of a Social Robot Prototype for Dementia Therapy.** Sandoval E. B., Cruz-Sandoval D. and Favela J
 <br />
 
-**Predictive relations as part of designerly HRI.** Smit I. [https://malulu.github.io/HRI-Design-2020/assets/pdf/Smit.pdf](pdf)
+**Predictive relations as part of designerly HRI.** Smit I. [pdf](https://malulu.github.io/HRI-Design-2020/assets/pdf/Smit.pdf)
 <br />
 
 **Context-Confrontation: Elicitation and Exploration of Conflicts for Delivery Robots on Sidewalks.** Vroon J., Rusak Z. and Kortuem G. 
