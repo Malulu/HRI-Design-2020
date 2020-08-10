@@ -8,6 +8,7 @@ nav_order: 4
 <br />
 
 **Toward Designing User-centered Idle Behaviors for Social Robots in the Home.** Arias K. [pdf](https://malulu.github.io/HRI-Design-2020/assets/pdf/Arias et al.pdf)
+<a href="https://malulu.github.io/HRI-Design-2020/assets/pdf/Arias et al.pdf" target="_blank">pdf</a>
 <br />
 
 **Designerly Scaffoldings for Co-designing Social Robots and Human-Robot Interaction.** Aslam S., Dertien E. and van Dijk J.
