@@ -14,7 +14,8 @@ nav_order: 4
 **Designerly Scaffoldings for Co-designing Social Robots and Human-Robot Interaction.** Aslam S., Dertien E. and van Dijk J.
 <br />
 
-**Robot Body Movements and the Intentional Stance.** Bossema M.
+**Robot Body Movements and the Intentional Stance.** Bossema M., Saunders R. and Ben Allouch S.
+<a href="https://malulu.github.io/HRI-Design-2020/assets/pdf/Bossema et al..pdf" target="_blank">pdf</a>
 <br />
 
 **Design Challanges to achieve the Sense of Embodiment while Developing a Teleoperation System.** Falcone S.
@@ -22,6 +23,7 @@ nav_order: 4
 <br />
 
 **New Social Robots Design Methodology to Promote Empathy in Human-Robot Interaction.** Fernandes L. and Bernardino A.
+<a href="https://malulu.github.io/HRI-Design-2020/assets/pdf/Fernandes and Bernardino.pdf" target="_blank">pdf</a>
 <br />
 
 **Beyond the Robotic Artefact: Capturing Designerly HRI Knowledge through Annotated Portfolios.** Hoggenmuller M. and Lee R.
@@ -47,5 +49,6 @@ nav_order: 4
 **Context-Confrontation: Elicitation and Exploration of Conflicts for Delivery Robots on Sidewalks.** Vroon J., Rusak Z. and Kortuem G. 
 <br />
 
-**Bridging the Ambient Environment and HRI: Using Site-Specific Robots to Create Context-Conscious Interaction.** Zhang M. 
+**Bridging the Ambient Environment and HRI: Using Site-Specific Robots to Create Context-Conscious Interaction.** Zhang M., Hardin J., Brooks J. O. and Green K. E.
+<a href="https://malulu.github.io/HRI-Design-2020/assets/pdf/Zhang et al.pdf" target="_blank">pdf</a>
 <br />
