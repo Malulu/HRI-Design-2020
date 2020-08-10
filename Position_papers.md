@@ -16,6 +16,8 @@ nav_order: 4
 **Designerly Scaffoldings for Co-designing Social Robots and Human-Robot Interaction.** Aslam S., Dertien E. and van Dijk J.
 <br />
 
+---
+
 **Robot Body Movements and the Intentional Stance.** Bossema M., Saunders R. and Ben Allouch S.
 <a href="https://malulu.github.io/HRI-Design-2020/assets/pdf/Bossema et al..pdf" target="_blank">pdf</a>
 <br />
