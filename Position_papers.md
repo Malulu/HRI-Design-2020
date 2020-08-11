@@ -20,7 +20,7 @@ nav_order: 4
 ---
 
 **Robot Body Movements and the Intentional Stance.** Bossema M., Saunders R. and Ben Allouch S.
-<a href="https://malulu.github.io/HRI-Design-2020/assets/pdf/Bossema et al..pdf" target="_blank">pdf</a>
+<a href="https://malulu.github.io/HRI-Design-2020/assets/pdf/Bossema et al.pdf" target="_blank">pdf</a>
 <br />
 
 ---
