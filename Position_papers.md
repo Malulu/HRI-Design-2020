@@ -42,7 +42,8 @@ nav_order: 4
 
 ---
 
-**Designing for Body Work in HRI.** Kamino W.
+**Designing for Body Work in HRI.** Joshi S., Kamino W., Karim A., Sabanovic S.
+<a href="https://malulu.github.io/HRI-Design-2020/assets/pdf/Joshi et al.pdf" target="_blank">pdf</a>
 <br />
 
 ---
