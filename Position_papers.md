@@ -77,5 +77,5 @@ nav_order: 4
 ---
 
 **Bridging the Ambient Environment and HRI: Using Site-Specific Robots to Create Context-Conscious Interaction.** Zhang M., Hardin J., Brooks J. O. and Green K. E.
-<a href="https://malulu.github.io/HRI-Design-2020/assets/pdf/Zhang et al.pdf" target="_blank">pdf</a>
+<a href="https://malulu.github.io/HRI-Design-2020/assets/pdf/Zhan g et al.pdf" target="_blank">pdf</a>
 <br />
