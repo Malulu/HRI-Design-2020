@@ -14,6 +14,7 @@ nav_order: 4
 ---
 
 **Designerly Scaffoldings for Co-designing Social Robots and Human-Robot Interaction.** Aslam S., Dertien E. and van Dijk J.
+<a href="https://malulu.github.io/HRI-Design-2020/assets/pdf/Aslam et al.pdf" target="_blank">pdf</a>
 <br />
 
 ---
