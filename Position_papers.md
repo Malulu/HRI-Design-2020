@@ -69,6 +69,7 @@ nav_order: 4
 ---
 
 **Context-Confrontation: Elicitation and Exploration of Conflicts for Delivery Robots on Sidewalks.** Vroon J., Rusak Z. and Kortuem G. 
+<a href="https://malulu.github.io/HRI-Design-2020/assets/pdf/Vroon et al.pdf" target="_blank">pdf</a>
 <br />
 
 ---
