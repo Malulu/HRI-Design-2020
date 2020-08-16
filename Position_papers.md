@@ -37,7 +37,8 @@ nav_order: 4
 
 ---
 
-**Beyond the Robotic Artefact: Capturing Designerly HRI Knowledge through Annotated Portfolios.** Hoggenmuller M. and Lee R.
+**Beyond the Robotic Artefact: Capturing Designerly HRI Knowledge through Annotated Portfolios.** Hoggenmueller M, Lee W., Hespanhol L., Tomitsch M. and Jung M.
+<a href="https://malulu.github.io/HRI-Design-2020/assets/pdf/Hoggenmueller et al.pdf" target="_blank">pdf</a>
 <br />
 
 ---
