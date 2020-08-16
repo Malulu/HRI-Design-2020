@@ -59,7 +59,8 @@ nav_order: 4
 
 ---
 
-**Strong Concepts and Heuristics in the Multidisciplinary Design of Robots: A Case Study of a Social Robot Prototype for Dementia Therapy.** Sandoval E. B., Cruz-Sandoval D. and Favela J
+**Functional Aesthetic Design of Therapy robots: Towards Strong Concepts for HRI** Sandoval E. B., Cruz-Sandoval D. and Favela J
+<a href="https://malulu.github.io/HRI-Design-2020/assets/pdf/Sandoval et al.pdf" target="_blank">pdf</a>
 <br />
 
 ---
