@@ -4,7 +4,7 @@ title: Positions papers
 nav_order: 4
 ---
 
-#### Prosition papers
+#### Position papers
 <br />
 
 **Toward Designing User-centered Idle Behaviors for Social Robots in the Home.** Arias K. 
