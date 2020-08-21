@@ -49,7 +49,8 @@ nav_order: 4
 
 ---
 
-**Designing for Compassion: designing innovative technology for e-Mental Healthcare based on the value of compassion.** Lusi B.
+**Designing for Compassion: designing robots for e-mental healthcare.** Lusi B., van Lotringen C. M., Klaassen R.,  Ludden G. D. S. and Noordzij M. L.
+<a href="https://malulu.github.io/HRI-Design-2020/assets/pdf/Lusi et al.pdf" target="_blank">pdf</a>
 <br />
 
 ---
