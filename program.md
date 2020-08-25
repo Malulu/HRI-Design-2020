@@ -5,7 +5,9 @@ nav_order: 3
 ---
 
 #### Program
-###### Due to the COVID-19 situation, the workshops will be held online as the main conference.
+##### Due to the COVID-19 situation, the workshops will be held online as the main conference.
+
+---
 
 The workshop will be held on September 3rd, 2020, from 13:00 to 18:30 (CEST)
 
