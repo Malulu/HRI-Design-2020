@@ -6,8 +6,6 @@ nav_order: 3
 
 #### Program
 
----
-
 The workshop will be held on September 3rd, 2020, from 13:00 to 18:30 (CEST) / _online_
 
 | Time   | Activity |
