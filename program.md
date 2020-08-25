@@ -18,8 +18,8 @@ The workshop will be held on September 3rd, 2020, from 13:00 to 18:30 (CEST) / _
 | 15:15-15:30  | Introduction to the map of Designerly HRI Knowledge  |
 | 15:30-16:00  | Break out rooms  |
 | 16:00-16:15  | Break  |
-| 16:15-16:45  | Guy Hoffman (presentation + Q&A)  |
-| 16:45-17:15  | Deborah Forster (presentation + Q&A) |
+| 16:15-16:45  | Deborah Forster "_HRI as SocioTechnical Niche Construction_" (presentation + Q&A)  |
+| 16:45-17:15  | Guy Hoffman "_The Social Uncanny of Robotic Companions_" (presentation + Q&A) |
 | 17:15-17:30  | Break  |
-| 17:30-18:00  | Ron Wakkary (presentation + Q&A) |
+| 17:30-18:00  | Ron Wakkary "_Material Speculations: Designing to Know_" (presentation + Q&A) |
 | 18:00-18:30  | Closing panel and wrap up |
