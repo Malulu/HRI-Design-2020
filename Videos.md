@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Positions papers
+title: Workshop videos
 nav_order: 6
 ---
 
