@@ -7,3 +7,5 @@ color_scheme: "light"
 search_enabled: false
 
 logo: "/assets/img/dhk.png"
+
+theme: jekyll-theme-minimal
